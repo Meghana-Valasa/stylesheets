@@ -1,0 +1,100 @@
+F.html:
+Source code:
+<frame src = "first.html" name = "f1">
+<frameset rows  = "50%,50%">
+<frame src = "second.html" name = "f2">
+<frame src = "third.html" name = "f3">
+</frameset>
+</frameset>
+</head>
+</html>
+
+
+first.html:
+source code:
+<html>
+<head>
+<h1 align = "center"><i> CONTENT </i> </h1>
+<a href = "animal.html" target = "f2">animal</a> <br>
+<a href = "birds.html" target = "f2">birds</a>
+</head>
+</html>
+
+second.html:
+source code: 
+<html>
+<head>
+<title> second </title>
+</head>
+</html>
+
+Third.html:
+Source.code:
+<html>
+<head>
+<title> third </title>
+</head>
+</html>
+
+
+Animals.html:
+Source code:
+<html>
+<head>
+<h1 align="center"><i>LIST</i></h1>
+<a href="dog.html" target = "f3">dog</a><br>
+<a href="lion.html" target = "f3">lion</a>
+</head>
+</html>
+
+
+Dog.html:
+Source  code:
+
+<html>
+<head>
+<h1> LIST OF ANIMALS </h1>
+<img src = "C:\Users\MYPC\Downloads\a5.jpg">
+</head>
+</html>
+
+
+Lion.html:
+Source code:
+
+<html>
+<head>
+<h1> LIST OF ANIMALS </h1>
+<img src = "C:\Users\MYPC\Downloads\a1.jpg">
+</head>
+</html>
+
+
+Birds.html:
+Source code:
+<html>
+<head>
+<h1> <i>LIST OF BIRDS</i> </h1>
+<a href = "peacock.html" target = "f3"> Peacock </a> <br>
+<a href = "parrot.html" target = "f3"> Parrot</a>
+</head>
+</html>
+
+
+Peacock.html:
+Source code:
+<html>
+<head>
+<img src = "C:\Users\MYPC\Downloads\p6.Jpg" target = "f3">
+</head>
+</html>
+
+
+Parrot.html:
+Source code:
+<html>
+<head>
+<img src = "C:\Users\MYPC\Downloads\p11.jpg">
+</head>
+</html>
+
